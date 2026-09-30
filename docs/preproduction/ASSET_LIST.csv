@@ -1,0 +1,10 @@
+asset_type,name_id,size,format,transparent_bg,ai_gen_recommended,free_asset_recommended
+Character,Char_Aegis,512x512,PNG,TRUE,TRUE(Midjourney/Niji),FALSE
+Character,Char_Oracle,512x512,PNG,TRUE,TRUE,FALSE
+Enemy,Enemy_Drone,256x256,PNG,TRUE,FALSE,TRUE(Kenney.nl 류)
+Boss,Boss_MasterAI,1024x1024,PNG,TRUE,TRUE,FALSE
+UI,Icon_DataCoin,128x128,PNG,TRUE,FALSE,TRUE(Flaticon 등 상업무료)
+UI,Icon_QuantumCore,128x128,PNG,TRUE,FALSE,TRUE
+VFX,Skill_Laser,N/A,Prefab,N/A,FALSE,TRUE(Unity Asset Store)
+SFX,UI_Click,N/A,WAV,N/A,FALSE,TRUE(Sonniss/Freesound)
+SFX,BGM_Cyberpunk,N/A,MP3,N/A,TRUE(Suno/Udio 생성),FALSE

@@ -1,0 +1,5 @@
+currency_id,type,obtain_method,usage,default_amt,upgrade_curve,char_price,iap_candidate
+DataCoin,Soft,Stage_Clear/IAP,LevelUp,500,BaseCost*1.1^Level,N/A,TRUE(Core로 구매)
+QuantumCore,Hard,First_Clear/IAP/Achievement,Buy_Char/Buy_DataCoin,100,N/A,500_Core,TRUE($4.99=500 / $9.99=1100)
+MemoryChip,Soft,Boss_Stage,Skill_Upgrade,0,BaseCost*1.5^Tier,N/A,FALSE
+Energy_Battery,Stamina,Auto_Recharge(1/10min),Stage_Entry(10_per_try),50,N/A,N/A,TRUE(Core로 충전)

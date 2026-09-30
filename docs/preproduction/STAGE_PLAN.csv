@@ -1,0 +1,10 @@
+stage_id,chapter,branch,enemies,difficulty,special_rule,first_clear_reward,repeat_reward,is_boss
+S01,1,Common,Drone*3,1,None,DataCoin_100,DataCoin_10,FALSE
+S10,1,Common,Drone*5/Turret*2,3,None,Core_10/Char_C04,DataCoin_30,TRUE
+S20,2,Common,Guard*5/Mech*2,5,Enemy_ATK_UP_10%,Core_50,DataCoin_50,TRUE
+S21_A,3,Coexist,Human_Soldier*4,6,Ally_DEF_UP_10%,Core_20,DataCoin_60,FALSE
+S25_A,3,Coexist,Commander/Tank*2,8,Boss_Shield,Core_100/End_A,DataCoin_100,TRUE
+S21_B,3,Independent,Rogue_AI*4,7,Ally_ATK_UP_10%,Core_20,DataCoin_60,FALSE
+S25_B,3,Independent,Master_AI,9,Boss_Summon,Core_100/End_B,DataCoin_100,TRUE
+S21_C,3,Dominate,Human_Elite*5,8,No_Heal,Core_30,DataCoin_70,FALSE
+S30_C,4,Dominate,Human_Emperor,10,Boss_Wipeout,Core_150/End_C,DataCoin_120,TRUE

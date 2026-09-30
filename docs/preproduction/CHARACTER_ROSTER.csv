@@ -1,0 +1,9 @@
+id,name,role,grade,base_hp,base_atk,base_def,growth_stat,active_skill,passive_skill,synergy,obtain,is_paid
+C01,Aegis(보안),Tank,B,1500,50,150,HP/DEF,Shield Bash(단일 스턴 2초),Block(+10% 방어력),Frontline,Default,FALSE
+C02,Pulse(의료),Healer,B,800,40,50,HP/Heal,System Restore(광역 힐),Triage(체력 30% 이하 아군 도트힐),Backline,Default,FALSE
+C03,Striker(군사),DPS,A,1000,120,80,ATK,Precision Strike(단일 300% 피해),Lethal Force(치명타율 +10%),Midline,Stage_5,FALSE
+C04,Cipher(해킹),Control,A,900,70,70,ATK/CDR,DDOS(광역 침묵 3초),Rootkit(공격시 5% 확률 적 방어력 감소),Backline,Stage_10,FALSE
+C05,Nexus(물류),Support,A,1200,60,90,HP/CDR,Overclock(아군 전체 공속 +20%),Supply Chain(매 10초 아군 쿨다운 1초 감소),Midline,Stage_15,FALSE
+C06,Oracle(연구),Mage,S,700,150,40,ATK,Logic Bomb(광역 200% 피해),Deep Learning(스킬 사용시마다 스킬 데미지 5% 증가),Backline,Shop,TRUE
+C07,Midas(금융),Special,S,1000,90,100,ATK/HP,Bribe(적 1명 5초간 아군화),Compound Interest(전투 승리 시 재화 획득량 10% 증가),Midline,Shop,TRUE
+C08,Apex(지휘),Commander,S,1300,100,120,All,Override(아군 전체 무적 3초),Protocol Alpha(전열 아군 방어력 15% 증가),Frontline,Shop,TRUE
